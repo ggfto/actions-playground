@@ -1,0 +1,30 @@
+{
+  "name": "actions-playground",
+  "version": "1.0.0",
+  "description": "Actions Playground on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggfto/actions-playground.git"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "nodejs",
+    "express"
+  ],
+  "author": "GFive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggfto/actions-playground/issues"
+  },
+  "homepage": "https://github.com/ggfto/actions-playground#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
